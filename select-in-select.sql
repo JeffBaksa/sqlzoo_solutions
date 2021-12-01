@@ -1,5 +1,5 @@
 /*
-SELECT in SELECT section of sqlzoon
+Fourth section of sqlzoo, SELECT in SELECT
 */
 
 --#1
